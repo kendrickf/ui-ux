@@ -1,3 +1,3 @@
 # portfolio
-just my project assigment
-UI/UX Web Programming
+# just my project assigment
+# UI/UX Web Programming
